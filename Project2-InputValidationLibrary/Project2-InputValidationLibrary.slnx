@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Project2-InputValidationLibrary.vcxproj" Id="b9907f94-793e-46ae-b5ff-d6dbe9efef41" />
+</Solution>
